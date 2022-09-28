@@ -1,0 +1,81 @@
+--- 
+--- 
+@import "minima";
+
+
+.about-header {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    padding: 10px 0px;
+    // background: linear-gradient(to bottom, #fff 50%, #F2F2F2 50%);
+
+    &>h1 {
+        padding: 5px 20px;
+        // border: 2px solid #262693;
+        // background-color: white;
+    }
+
+    &>h2 {
+        width: 100%;
+        padding: 10px 0px;
+        font-weight: lighter;
+        background: #F2F2F2;
+    }
+}
+
+.about-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 10px;
+
+    &__info {
+        flex: 1;
+        border-right: 2px solid #262693;
+        padding-right: 10px;
+        text-align: right;
+
+        &>div {
+            margin-bottom: 20px;
+            max-width: 300px;
+
+            &>p {
+                margin: 2px 0px;
+            }
+        }
+    }
+
+    &__experience {
+        flex: 2;
+        padding-left: 10px;
+
+        &>div {
+            margin-top: 10px;
+            margin-bottom: 20px;
+
+            &>h4 {
+                font-weight: lighter;
+                font-size: 1.2rem;
+
+                &>span {
+                    color: gray;
+                    font-size: 0.95rem;
+                }
+            }
+
+            &>p {
+                margin: 2px 0px;
+            }
+
+            &>p:nth-child(odd) {
+                color: gray;
+            }
+
+            &>ul {
+                margin-top: 5px;
+            }
+        }
+    }
+}
