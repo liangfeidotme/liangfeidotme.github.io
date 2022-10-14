@@ -16,7 +16,7 @@ plugins:
 
 header_pages:
   - hz.md
-  - biz.html
+  - biz.md
   - reading.md
   - about.html
 

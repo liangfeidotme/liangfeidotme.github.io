@@ -61,9 +61,11 @@ permalink: /reading
 ## CS & SE
 
 ### Frontend
-* [x] Micro Frontends in Action
-* [x] Docker in Action
-* [x] CSS3 the missing manual
+* [x] **Micro Frontends** in Action
+* [x] **Docker** in Action
+* [x] **CSS3** the missing manual
+* [x] Introducing Dart **Sass** A Practical Introduction to the Replacement for Sass, Built on Dart
+* [x] Jump Start **Sass** Get Up to Speed With Sass in a Weekend
 * [ ] Responsive Web Design with HTML5 and CSS3
 * [ ] JavaScript: The Good Parts
 * [ ] JavaScript Data Structures and Algorithms
