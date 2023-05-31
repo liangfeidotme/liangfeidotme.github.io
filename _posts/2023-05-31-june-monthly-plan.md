@@ -1,7 +1,7 @@
 ---
 layout: post
 title: June Monthly Plan
-date: 2023-06-01
+date: 2023-05-31
 ---
 
 ## Maintain Self-discipline
