@@ -15,18 +15,13 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - hz.md
   - biz.md
+  - learning.md
   - reading.md
   - about.html
+  - hz.md
 
-collections:
-  hz-gates:
-    output: true
-    sort_by: order
-  biz:
-    output: true
-    sort_by: index
+collections: []
 
 # Exclude from processing.
 # The following items will not be processed, by default.

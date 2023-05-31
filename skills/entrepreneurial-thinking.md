@@ -1,11 +1,7 @@
 ---
-layout: post
-title: 'Entrepreneurial Thinking'
-date: 2022-11-09 +0800
-categories: Business
+layout: page
+title: Entrepreneurial Thinking
 ---
-
-The content is from [www.cleverism.com](https://www.cleverism.com/skills-and-tools/entrepreneurial-thinking/).
 
 ## What
 
@@ -29,3 +25,4 @@ The content is from [www.cleverism.com](https://www.cleverism.com/skills-and-too
 * Try to be a risk-taker.
 * Last but not the least; dream big!
 
+> [www.cleverism.com](https://www.cleverism.com/skills-and-tools/entrepreneurial-thinking/).

@@ -1,9 +1,6 @@
 ---
-layout: post
+layout: page
 title: 杭州最北武林门
-order: 2
-cover: https://res.cloudinary.com/hefengcloud-com/image/upload/v1664373412/hangzhou/ten-gates/wu-lin_igohdl.jpg
-date: 2020-08-31
 ---
 
 杭州十大古城门中，武林门最为古老，距今已有 1300 年的历史。

@@ -1,9 +1,6 @@
 ---
-layout: post
+layout: page
 title: 故国之思艮山门
-order: 1
-cover: https://res.cloudinary.com/hefengcloud-com/image/upload/v1664370424/hangzhou/ten-gates/gen-shan-men_j4vdxm.jpg
-date: 2020-08-28
 ---
 
 ![](https://res.cloudinary.com/hefengcloud-com/image/upload/v1664370424/hangzhou/ten-gates/gen-shan-men_j4vdxm.jpg)

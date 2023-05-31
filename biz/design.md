@@ -1,9 +1,8 @@
 ---
-layout: post
-title: The Non-Designer's Design Book
-date:   2022-01-27 +0800
-categories: Design
+layout: page
+title: Design
 ---
+
 
 ## Design Principles
 

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Marketing
-index: 1
 ---
 
 ## Awesome links

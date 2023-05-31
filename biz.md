@@ -4,10 +4,10 @@ title: Business
 permalink: /biz
 ---
 
-<div>
-{% for item in site.biz %}
-    <a href="{{ item.url }}">
-        <h2>{{ item.title }}</h2>
-    </a>
-{% endfor %}
-</div>
+## Mindset
+* [Entrepreneurial Thinking](/skills/entrepreneurial-thinking/)
+* [Critical Thinking](/skills/critical-thinking/)
+
+## [Marketing](/biz/marketing/)
+## [Technology](/biz/technology/)
+## [Customer Success](/biz/customer-success/)
