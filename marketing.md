@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Marketing
-index: 1
+permalink: /marketing
 ---
 
 ## Awesome links

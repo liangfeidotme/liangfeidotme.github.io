@@ -24,6 +24,9 @@ collections:
   hz-gates:
     output: true
     sort_by: order
+  biz:
+    output: true
+    sort_by: index
 
 # Exclude from processing.
 # The following items will not be processed, by default.

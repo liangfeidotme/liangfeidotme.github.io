@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Customer Sucess
+index: 3
 ---
 
 ## OKRs
