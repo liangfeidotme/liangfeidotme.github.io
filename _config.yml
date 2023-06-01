@@ -6,12 +6,18 @@ description: >-
   like reading.
 baseurl: ""
 url: "https://liangfei.me"
+
+# Analytics
+google_analytics: G-D50GE5EYBB
+
+# Social
 twitter_username: liangfeidotme
 github_username:  liangfeidotme
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
 
 header_pages:
