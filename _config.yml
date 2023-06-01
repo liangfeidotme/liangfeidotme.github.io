@@ -1,4 +1,4 @@
-title: Lyndon
+title: liangfei.me 
 email: njliangfei@gmail.com
 description: >-
   Living in Hangzhou, 
@@ -10,15 +10,20 @@ url: "https://liangfei.me"
 # Analytics
 google_analytics: G-WGQHJGVC9B
 
-# Social
-twitter_username: liangfeidotme
-github_username:  liangfeidotme
-
 # Build settings
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
+
+# Social
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/liangfeidotme" }
+    - { platform: twitter,  user_url: "https://twitter.com/liangfeidotme" }
+    - { platform: facebook,  user_url: "https://www.facebook.com/liangfei.me" }
+    - { platform: instagram,  user_url: "https://www.instagram.com/liangfei.me" }
+    - { platform: linkedin,  user_url: "https://www.linkedin.com/in/lyndon-liang-895707229/" }
 
 header_pages:
   - biz.md
@@ -26,6 +31,10 @@ header_pages:
   - reading.md
   - about.html
   - hz.md
+
+# Comments
+disqus:
+  shortname: liangfei-me
 
 collections: []
 
