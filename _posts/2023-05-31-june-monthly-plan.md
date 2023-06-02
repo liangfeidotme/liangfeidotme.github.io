@@ -13,13 +13,14 @@ date: 2023-05-31
 
 * Marketing
     * [Digital Marketing All-in-One For Dummies](https://github.com/liangfeidotme/Business/issues/6)
-    * [Marketing 4.0]()
+    * [Marketing 4.0](https://github.com/liangfeidotme/Business/issues/8)
+    * [Marketing 5.0](https://github.com/liangfeidotme/Business/issues/9)
     * [Blogging For Dummies](https://github.com/liangfeidotme/Business/issues/7)
     * 500 Social Media Marketing Tips: Essential Advice, Hints and Strategy for Business: Facebook, Twitter, Pinterest, Google+, YouTube, Instagram, LinkedIn, and More!
     * Social Media Strategy Marketing, Advertising, and Public Relations in the Consumer Revolution (Keith Quesenberry) (Z-Library)
+    * The Power of Visual Storytelling How to Use Visuals, Videos, and Social Media to Market Your Brand (Ekaterina Walter, Jessica Gioglio) (Z-Library)
 * Parenting
     * The Book You Wish Your Parents Had Read (and Your Children Will Be Glad That You Did)
-    * The Power of Visual Storytelling How to Use Visuals, Videos, and Social Media to Market Your Brand (Ekaterina Walter, Jessica Gioglio) (Z-Library)
 * Economics
     * 大学４年間の経済学が１０時間でざっと学べる
 
