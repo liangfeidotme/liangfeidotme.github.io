@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digital Marketing All-In-One for Dummies
+title: 📚 Digital Marketing All-In-One for Dummies
 date: 2023-06-06
 ---
 

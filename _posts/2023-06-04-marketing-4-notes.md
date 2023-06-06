@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digital Marketing All-In-One for Dummies
+title: 📚 Marketing 4.0
 date: 2023-06-04
 ---
 
