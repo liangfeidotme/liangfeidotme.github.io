@@ -11,6 +11,8 @@ title: Marketing
 * [convinceandconvert.com](https://www.convinceandconvert.com)
 * [designschool@canva](https://www.canva.com/designschool)
 * [buzzfeed.com](https://www.buzzfeed.com)
+* [NIR AND FAR](https://www.nirandfar.com)
+* [Fogg Method](https://www.foggmethod.com)
 
 ## Digital Asset Management
 * [bynder.com](https://www.bynder.com)
