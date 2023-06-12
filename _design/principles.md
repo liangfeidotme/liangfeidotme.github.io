@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Design
+title: Design and Typographic Principles
 ---
-
 
 ## Design Principles
 

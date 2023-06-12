@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hangzhou
-permalink: /hz
+title: 杭州
+permalink: /hangzhou/
 ---
 
 [杭州的博物馆](/hz/museums) | [杭州十门](/hz/gates) | [杭州西湖](/hz/westlake)

@@ -29,7 +29,16 @@ header_pages: []
 disqus:
   shortname: liangfei-me
 
-collections: []
+collections: 
+  mindset:
+    output: true
+  marketing:
+    output: true
+  design:
+    output: true
+
+include:
+  - _pages
 
 # Exclude from processing.
 # The following items will not be processed, by default.
