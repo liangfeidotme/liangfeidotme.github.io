@@ -1,9 +1,7 @@
 title: liangfei.me 
 email: njliangfei@gmail.com
 description: >-
-  Living in Hangzhou, 
-  running a small business,
-  like reading.
+  A History-loving, Code-writing Entreprenuer Fluent in Chinse, Japanse and English
 baseurl: ""
 url: "https://liangfei.me"
 
@@ -25,12 +23,7 @@ minima:
     - { platform: instagram,  user_url: "https://www.instagram.com/liangfei.me" }
     - { platform: linkedin,  user_url: "https://www.linkedin.com/in/lyndon-liang-895707229/" }
 
-header_pages:
-  - biz.md
-  - learning.md
-  - reading.md
-  - about.html
-  - hz.md
+header_pages: []
 
 # Comments
 disqus:
