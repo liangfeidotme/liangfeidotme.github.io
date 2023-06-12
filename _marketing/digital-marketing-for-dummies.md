@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: page
 title: 📚 Digital Marketing All-In-One for Dummies
-date: 2023-06-06
 ---
 
 ## Creating Your Digital Marketing Strategy

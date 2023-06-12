@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: page
 title: 📚 Marketing 4.0
-date: 2023-06-04
 ---
 
 ## Fundamental Trends Shapping Marketing

@@ -1,8 +1,6 @@
 ---
-layout: post
-title:  What's Content Marketing
-date:   2022-07-01 +0800
-categories: Business Marketing
+layout: page
+title: ✍️ What's Content Marketing
 ---
 
 Content marketing is in the scope of digial marketing, and it's not a buzzy word, because it has emerged since the dawn of social media.
