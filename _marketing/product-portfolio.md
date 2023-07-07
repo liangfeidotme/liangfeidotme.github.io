@@ -17,4 +17,3 @@ In fact, when you’re running a smaller organization, the quality of your produ
 - How skilled are you at identifying products with the best potential for market success? 
 
 When your company has fewer products, any instability will deeply impact your business operations.
-

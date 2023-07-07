@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ✍️ What's Content Marketing
+title: ✍️ Content Marketing
 ---
 
 Content marketing is in the scope of digial marketing, and it's not a buzzy word, because it has emerged since the dawn of social media.

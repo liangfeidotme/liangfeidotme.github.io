@@ -5,6 +5,28 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
+.emoji-title-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    .emoji {
+        width: 64px !important;
+        height: 64px !important;
+    }
+}
+
+.page-content {
+    background-color: #eaf0f5;
+}
+
+h2 .emoji {
+    width: 38px;
+    height: 38px;
+    text-align: center;
+}
+
 .about-header {
     display: flex;
     flex-direction: column;

@@ -14,7 +14,7 @@
 
         <div class="trigger">
           {%- for link in site.data.navigation.main -%}
-            <a class="page-link" href="{{ link.url | relative_url }}">{{ link.title | escape }}</a>
+            <a class="page-link" href="{{ link.url | relative_url }}" {% if link.external %} target="_blank" {% endif %}>{{ link.title | escape }} {% if link.external %} :arrow_upper_right: {% endif %}</a>
           {%- endfor -%}
         </div>
     </nav>

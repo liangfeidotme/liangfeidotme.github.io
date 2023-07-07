@@ -2,10 +2,14 @@ main:
   - title: About
     url: /about/
   - title: Entrepreneur
-    url: /entrepreneur/
+    url: https://hefengcloud.com
+    external: true
   - title: History
     url: https://senluoshe.com
-  - title: Japanse
+    external: true
+  - title: Japanese
     url: https://everjapan.com
+    external: true
   - title: Coding
     url: https://feelang.xyz
+    external: true
