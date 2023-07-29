@@ -21,10 +21,44 @@
     background-color: #eaf0f5;
 }
 
-h2 .emoji {
-    width: 38px;
-    height: 38px;
-    text-align: center;
+article {
+
+    h2 {
+        font-weight: bold;
+        border-bottom: 1px solid #5c93bb2b;
+    }
+    
+    h2 .emoji {
+        width: 38px;
+        height: 38px;
+        text-align: center;
+    }
+    
+    h3 {
+        font-size: 1.1rem;
+        border-left: 6px solid #3ea8ff;
+        padding: .2em 0 .2em 16px;
+        background-color: #f8f7f2;
+        margin-bottom: 16px;
+    }
+    
+    blockquote {
+        font-size: 1rem;
+        background: #f1f0eb;
+        border-color: #dbdbdb;
+        border-radius: 8px;
+        color: #333;
+        line-height: 1.6;
+        max-width: 560px;
+        padding: 1em;
+        position: relative;
+        font-style: normal;
+        border-left: none;
+    }
+    
+    strong {
+        background: linear-gradient(transparent 64%, #f7ecc8 0%);
+    }
 }
 
 .about-header {
