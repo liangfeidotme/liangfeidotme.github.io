@@ -1,5 +1,5 @@
 ---
-title: 持续优化内容创作流程
+title: 🍱 持续优化内容创作流程
 ---
 
 今天是7月份的尾巴，[July Monthly Plan](/2023/07/04/july-monthly-plan.html) 肯定是完成不成了。
@@ -23,6 +23,7 @@ title: 持续优化内容创作流程
 ### ② 写文章
 
 * 整理框架，与 AI 互动，厘清知识点
+* 写文章，保存为 Jekyll 的草稿
 * 润色文本，借助 AI
 * 用 VSCode 做编辑器，输出 Markdown 格式文本
 
