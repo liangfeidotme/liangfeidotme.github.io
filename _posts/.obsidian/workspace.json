@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "4cd5ce1cd42acadf",
+    "type": "split",
+    "children": [
+      {
+        "id": "7359b983f7a62fea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10dde6f60a63283d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-05-10-child-education.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "22d315333e230410",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e1e9511e117163f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfbd2f32452d6255",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "987d33114087ece2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7b7ca3d17e952f88",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4c0bf84597df350c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c397e94d89941b7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48642d41b002057f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024-05-10-child-education.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e66c15123bfc35e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-05-10-child-education.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40ee59aba67e3b16",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8695e4995890d5ef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024-05-10-child-education.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "10dde6f60a63283d",
+  "lastOpenFiles": [
+    "2023-06-30-wechat-ecosystem.md",
+    "2024-05-10-child-education.md",
+    "2023-08-02-content-generation.md",
+    "2023-07-30-distribution-channels.md",
+    "2023-07-29-process-optimization.md",
+    "2023/07/04/july-monthly-plan.html.md",
+    "2023/07/04",
+    "2023/07",
+    "2023",
+    "2023-07-04-july-monthly-plan.md",
+    "2023-08-12-focus-on-business-goals.md",
+    "2023-09-18-business-thinking.md",
+    "2024-01-01-plan.md",
+    "2023-10-07-planning.md",
+    "2023-11-29-november-summary.md"
+  ]
+}
