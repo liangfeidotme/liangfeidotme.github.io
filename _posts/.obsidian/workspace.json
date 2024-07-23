@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "4cd5ce1cd42acadf",
+    "id": "987c94cd6cd847be",
     "type": "split",
     "children": [
       {
-        "id": "7359b983f7a62fea",
+        "id": "e8e8f68cb28c494c",
         "type": "tabs",
         "children": [
           {
-            "id": "10dde6f60a63283d",
+            "id": "65312ec63a1f9b93",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-05-10-child-education.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "22d315333e230410",
+    "id": "df9eef58ea646694",
     "type": "split",
     "children": [
       {
-        "id": "6e1e9511e117163f",
+        "id": "edeb757aeb577e27",
         "type": "tabs",
         "children": [
           {
-            "id": "bfbd2f32452d6255",
+            "id": "4c7d2624d925cb72",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "987d33114087ece2",
+            "id": "ee1a66bd6c855d09",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "7b7ca3d17e952f88",
+            "id": "4e47cd669dc0b1fe",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "4c0bf84597df350c",
+    "id": "93776405d7b6f9a0",
     "type": "split",
     "children": [
       {
-        "id": "c397e94d89941b7f",
+        "id": "a049ced1b6f942dd",
         "type": "tabs",
         "children": [
           {
-            "id": "48642d41b002057f",
+            "id": "5d793d99d6e27918",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05-10-child-education.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "9e66c15123bfc35e",
+            "id": "07af8b5ba08ceb10",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05-10-child-education.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "40ee59aba67e3b16",
+            "id": "84b4561c11d6243f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "8695e4995890d5ef",
+            "id": "df98f26d5db5d447",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024-05-10-child-education.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,22 +138,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10dde6f60a63283d",
+  "active": "65312ec63a1f9b93",
   "lastOpenFiles": [
-    "2023-06-30-wechat-ecosystem.md",
+    "2024-05-15-how-to-manage-japanese-knowledge.md",
     "2024-05-10-child-education.md",
+    "2023-06-30-wechat-ecosystem.md",
     "2023-08-02-content-generation.md",
-    "2023-07-30-distribution-channels.md",
-    "2023-07-29-process-optimization.md",
     "2023/07/04/july-monthly-plan.html.md",
     "2023/07/04",
     "2023/07",
-    "2023",
-    "2023-07-04-july-monthly-plan.md",
-    "2023-08-12-focus-on-business-goals.md",
-    "2023-09-18-business-thinking.md",
-    "2024-01-01-plan.md",
-    "2023-10-07-planning.md",
-    "2023-11-29-november-summary.md"
+    "2023"
   ]
 }
