@@ -8,18 +8,19 @@ title: 2024年终总结：阅读篇
 
 值得一提的是，以下三套书帮我构建了比较完整的知识体系，重点推荐。
 
-- 『向下扎根！德國教育的公民思辨課』
-- 『大学的邀请系列』
-- 『Help Your Kids With Series』
+- [『向下扎根！德國教育的公民思辨課』](https://book.douban.com/series/47866)
+- [『大学的邀请系列』](https://book.douban.com/series/34073)
+- [『Help Your Kids With Series』](https://www.dk.com/ca/promotion/help-your-kids-with-series/)
 
 ## 语言学
 
 - 普通语言学教程（索绪尔）
-- 训诂学
+- 训诂学（郭在贻）
 - 语法讲义（朱德熙）
 - 汉语的本质和历史（高本汉）x2
 - 语言学的邀请 x2
 - 我们赖以生存的隐喻
+- Metaphors We Live By
 - 如何科学学外语 x2
 - 日本语（金田一春彦）
 - 日语语法概论（高桥太郎）x2
