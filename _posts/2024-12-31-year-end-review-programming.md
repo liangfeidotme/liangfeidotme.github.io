@@ -2,12 +2,12 @@
 title: 2024年终总结：编程篇
 ---
 
-24年一共做了四个产品，25年以此为基础，持续优化，创造价值。
+24年一共做了好几个产品，有的半途而废，有的过于粗糙，能拿得出手的有四个：
 
 名称 | 类型 | 技术栈
 --- | --- | ---
 [地址解析软件](https://github.com/Hefengcloud/residential-address-parsing) | 桌面应用 | Flutter
-[基金会网站](https://zhejiangcf.org.cn) | 网站 | Website
+某基金会网站 | 网站 | Website
 [森罗日语CMS](https://github.com/Hefengcloud/senluo_japanese_cms) | 桌面应用 | Flutter
 [wafu-cms](https://github.com/Hefengcloud/wafu-cms/tree/main/wafu_cms) | 命令行 | Python
 
@@ -21,6 +21,11 @@ title: 2024年终总结：编程篇
 ## 基金会网站
 
 > WordPress + 腾讯云
+
+- 域名申请
+- 服务器备案
+- HTTPS 证书
+- 运维服务
 
 ## 森罗日语CMS
 
