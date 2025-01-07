@@ -46,8 +46,7 @@ title: 2025年阅读记录
 
 - [ ] 汉文与东亚世界
 - [ ] 日本的汉字
-- [ ] 日本語と外国語
-- [ ] 日本语和外国语（中文版）
+- [ ] 日本语和外国语（日本語と外国語）
 - [ ] ことばと文化
 
 ### Chinese
@@ -158,6 +157,8 @@ title: 2025年阅读记录
 
 ## Others
 
+- [ ] 30岁人生开挂7步法
+- [ ] 如何在感兴趣的领域出类拔萃 —— 理想人生实现指南
 - [ ] How We Learn -- Why Brains Learn Better Than Any Machine...for Now
 - [ ] Mindset -- The New Psychology of Success
 - [ ] Thiking, Fast and Slow
@@ -165,7 +166,6 @@ title: 2025年阅读记录
 - [ ] 刻意练习 -- 如何从新手到大师
 - [ ] Peak -- Secrects from the New Science of Expertise
 - [ ] Principles -- Life and Work
-- [ ] 如何在感兴趣的领域出类拔萃 —— 理想人生实现指南
 - [ ] Finish What You Start -- The Art of Following Through, Taking Action, Executing & Self-Discipline
 - [ ] Atomic Habits -- An Easy & Proven Way to Build Good Habits & Break Bad Ones
 - [ ] Keep Going -- 10 Ways to Stay Creative in Good Times and Bad
