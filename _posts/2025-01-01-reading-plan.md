@@ -60,6 +60,11 @@ title: 2025年阅读记录
 
 ## Business（商业）
 
+- [ ] 30岁人生开挂7步法
+- [ ] 如何在感兴趣的领域出类拔萃 —— 理想人生实现指南
+- [ ] Rich Dad Poor Dad
+- [ ] The 4-hour Worksheet
+- [ ] The Millionaire Fastlane
 - [ ] The Business Book
 - [ ] The Instant Economist -- Everything You Need to Know About How the Economy Works
 - [ ] Lean Customer Development
@@ -151,14 +156,13 @@ title: 2025年阅读记录
 ## History (历史)
 
 - [ ] 世界简史——从非洲到月球
+- [ ] 從暹羅到泰國：失落的土地與被操弄的歷史
 - [ ] 旧制度与大革命
 - [ ] The Shortest History of Europe
 - [ ] Why the West Rules - for Now -- The Patterns of History and What They Reveal about the Future
 
 ## Others
 
-- [ ] 30岁人生开挂7步法
-- [ ] 如何在感兴趣的领域出类拔萃 —— 理想人生实现指南
 - [ ] How We Learn -- Why Brains Learn Better Than Any Machine...for Now
 - [ ] Mindset -- The New Psychology of Success
 - [ ] Thiking, Fast and Slow
