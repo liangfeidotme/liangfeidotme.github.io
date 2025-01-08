@@ -69,6 +69,7 @@ title: 2024年终总结：商业篇
 
 Book | Description
 --- | ---
+Rework | 认识工作模式的多样性
 It Doesn't Have to Be Crazy at Work | 不 996，不拼命加班也可以赚到钱
 What I Wish I Knew When I Was 20 : A Crash Course on Making Your Place in the World | 树立正确的价值观：拥抱理性，心向未来
 The Hard Thing About Hard Things : Building a Business When There Are No Easy Answers | 创业很艰难，但并非无计可施：多运用理性，少依靠本能
