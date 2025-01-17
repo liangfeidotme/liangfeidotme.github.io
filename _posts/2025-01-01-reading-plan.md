@@ -1,27 +1,42 @@
 ---
-title: 2025年阅读记录
+title: 为实现商业目标而读书
 ---
 
-[去年30本](/2024/12/31/year-end-review-reading.html)，今年至少40本，从下面这些书里挑吧。
+去年，我一共读了[30本书](/2024/12/31/year-end-review-reading.html)。
+
+今年，我想读 48 本，一个星期一本。
+
+读书，对我来说，既是丰富精神世界的养分，也是实现商业目标的手段。
+
+2025年，我打算聚焦在以下三个领域开展业务：
+
+0. AI 教育
+0. 语言教育
+0. 软件开发
+
+因此，读书也会围绕这三个方面来执行。
 
 ## Parenting
 
 - [ ] 养育男孩
 - [ ] The Book You Wish Your Parents Had Read (and Your Children will be Glad That You Did)
+- [ ] Positive Discipline
+- [ ] You, Your Child, and School
+- [ ] 教育科学与儿童心理学（二读）
+- [ ] 教育的目的（怀特海）
+- [ ] 心理学的邀请
+- [ ] 心理学导论
 - [ ] Good Inside（看见孩子）
 - [ ] The Gift of Failure: How the Best Parents Learn to Let Go So Their Children Can Succeed
 - [ ] Grit -- The Power of Passion and Perseverance
 - [ ] The Whole-Brain Child
 - [ ] How to Talk So Kids Will Listen & Listen So Kids Will Talk
-- [ ] Positive Discipline
 - [ ] 正念教育 -- 如何不焦虑、不内耗地与孩子相处
 - [ ] 正念小孩 -- 收获平静、专注与内在力量的50个正念练习
 - [ ] 自驱型成长 -- 如何科学有效培养孩子的自律
 - [ ] 0-8岁儿童纪律教育——给教室和家长的心理学建议
-- [ ] You, Your Child, and School
 - [ ] Blue Chip Kids
 - [ ] I Love You but I'm not in Love with You -- Seven Steps to Saving Your Relationship
-- [ ] 教育的目的（怀特海）
 
 ## Linguistics
 
@@ -46,21 +61,22 @@ title: 2025年阅读记录
 
 - [ ] 汉文与东亚世界
 - [ ] 日本的汉字
-- [ ] 日本语和外国语（日本語と外国語）
+- [x] 日本语和外国语（日本語と外国語）
 - [ ] ことばと文化
 
 ### Chinese
 
 - [x] 作文六要
-- [ ] 汉字革命——中文语文现代性的起源：1916-1958
-- [ ] 过初阳的语文课
-- [ ] 语文不是语文书
+- [x] 阅读的力量
 - [ ] 我在台湾教语文——阅读改变孩子的人生
+- [ ] 汉字革命——中文语文现代性的起源：1916-1958
+- [ ] 郭初阳的语文课
+- [ ] 语文不是语文书
 - [ ] 我怎样教语文（叶圣陶）
 
 ## Business（商业）
 
-- [ ] 30岁人生开挂7步法
+- [x] 30岁人生开挂7步法（x2）
 - [ ] 如何在感兴趣的领域出类拔萃 —— 理想人生实现指南
 - [ ] Rich Dad Poor Dad
 - [ ] The 4-hour Worksheet
@@ -117,8 +133,8 @@ title: 2025年阅读记录
 ## Philosophy（哲学）
 
 - [ ] 哲学的邀请
-- [ ] 苏菲的世界（第二遍）
-- [ ] 哲学家们都干了些什么（第二遍）
+- [ ] 苏菲的世界（二读）
+- [ ] 哲学家们都干了些什么（二读）
 - [ ] 惊呆了！哲学这么好
 - [ ] 论自由
 - [ ] 逻辑哲学论（维特根斯坦）
@@ -163,11 +179,12 @@ title: 2025年阅读记录
 
 ## Others
 
+- [ ] 费曼超级学习法（二读）
+- [ ] 刻意练习 -- 如何从新手到大师
 - [ ] How We Learn -- Why Brains Learn Better Than Any Machine...for Now
 - [ ] Mindset -- The New Psychology of Success
-- [ ] Thiking, Fast and Slow
+- [ ] Thinking, Fast and Slow
 - [ ] The Willpower Instinct -- How Self-Control Works, Why It Matters, and What You can Do to Get More of It
-- [ ] 刻意练习 -- 如何从新手到大师
 - [ ] Peak -- Secrects from the New Science of Expertise
 - [ ] Principles -- Life and Work
 - [ ] Finish What You Start -- The Art of Following Through, Taking Action, Executing & Self-Discipline
@@ -184,7 +201,7 @@ title: 2025年阅读记录
 
 ### Reading
 
-- [ ] How to Read a Book (第二遍)
+- [ ] How to Read a Book (x2)
 - [ ] 如何有效阅读一本书
 
 ### Writing
