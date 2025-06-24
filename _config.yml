@@ -31,6 +31,8 @@ disqus:
   shortname: liangfei-me
 
 collections: 
+  reading:
+    output: true
   mindset:
     output: true
   marketing:
