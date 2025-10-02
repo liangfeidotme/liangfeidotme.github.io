@@ -1,15 +1,3 @@
 main:
   - title: About
     url: /about/
-  - title: Entrepreneur
-    url: https://hefengcloud.com
-    external: true
-  - title: History
-    url: https://senluoshe.com
-    external: true
-  - title: Japanese
-    url: https://everjapan.com
-    external: true
-  - title: Coding
-    url: https://feelang.xyz
-    external: true
