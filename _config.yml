@@ -1,5 +1,7 @@
 title: liangfei.me 
-email: njliangfei@gmail.com
+author:
+  name: Lyndon Liang
+  email: njliangfei@gmail.com
 description: >-
   A History-loving, Code-writing Entreprenuer Fluent in Chinse, Japanse and English
 baseurl: ""
@@ -14,6 +16,15 @@ plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jemoji
+
+
+minima:
+  social_links:
+    - { title: github, icon: github, url: "https://github.com/liangfeidotme" }
+    - { title: twitter, icon: twitter, url: "https://twitter.com/liangfeidotme" }
+    - { title: facebook, icon: facebook, url: "https://www.facebook.com/liangfei.me" }
+    - { title: instagram, icon: instagram, url: "https://www.instagram.com/liangfei.me" }
+    - { title: linkedin, icon: linkedin, url: "https://www.linkedin.com/in/lyndon-liang-895707229/" }
 
 include:
   - _pages
