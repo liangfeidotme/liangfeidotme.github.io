@@ -8,20 +8,15 @@ title: 达成一个小里程碑：跑通商业闭环
 
 从 4P 的角度来看，我这盘“小生意”算是跑通闭环了，飞轮也开始转起来。
 
-- Product: PDF / 付费专栏
-- Price
-- Place
-- Promotion: Content Marketing
+- **Product**: PDF / 付费专栏
+- **Price**
+- **Place**
+- **Promotion**: Content Marketing
 
 接下来要做的，则是加大马力，让飞轮转得更快：
 
-- **增加 Product 的丰富度，让内容矩阵更立体**
-  - 更多 PDF（漢字、語彙）
-  - Apps
-  - 学习工具（Web）
-- **拓展 Promotion 的手段，让传播更高效**
-  - Content Marketing
-  - Live
+- **增加 Product 的丰富度，让内容矩阵更立体**：更多 PDF（漢字、語彙）、Apps、学习工具（Web）
+- **拓展 Promotion 的手段，让传播更高效**：Content Marketing、Live
 
 当然，一切动作都要围绕 AI 展开 —— 因为在这个时代，**AI 既是工具，也是杠杆。**
 
